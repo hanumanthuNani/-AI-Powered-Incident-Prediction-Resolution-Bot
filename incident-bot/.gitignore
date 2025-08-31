@@ -1,0 +1,4 @@
+# Ignore environment variables and sensitive info
+.env
+__pycache__/
+*.pyc
