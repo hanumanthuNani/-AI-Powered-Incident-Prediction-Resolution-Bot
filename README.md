@@ -143,8 +143,4 @@ File: `sample_logs.txt`
 
 MIT
 
----
 
-```
-
----
