@@ -1,1 +1,5 @@
+[2025-08-31 12:01:21] ERROR - DB Connection Timeout
+[2025-08-31 12:02:10] WARNING - High CPU Usage
+[2025-08-31 12:05:05] INFO - Restarted Service Successfully
+[2025-08-31 12:07:45] CRITICAL - Disk Full
 
