@@ -1,6 +1,4 @@
-Got it bro ✅ — here’s a **clean full README.md** (no code inside), ready to paste directly into your repo:
 
----
 
 ````markdown
 # 🤖 AI-Powered Incident Prediction & Resolution Bot  
