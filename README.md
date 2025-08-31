@@ -150,7 +150,3 @@ MIT
 ```
 
 ---
-
-⚡ This README is **final & polished** — you can paste it directly.  
-Want me to also draft a **requirements.txt** file (so pip install works in one go)?
-```
